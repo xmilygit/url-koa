@@ -1,0 +1,20 @@
+{
+    "name": "hello-koa2",
+    "version": "1.0.0",
+    "description": "Hellow Koa2 example with async",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "keywords": [
+        "koa",
+        "async"
+    ],
+    "author": "xmily",
+    "license": "",
+    "dependencies": {
+        "koa": "^2.5.1",
+        "koa-bodyparser": "^4.2.0",
+        "koa-router": "^7.4.0"
+    }
+}
